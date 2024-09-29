@@ -1,0 +1,5 @@
+Catatan:
+- menggunakan google devtools untuk melihat code html atau css yang telah digunakan.
+= terdapat tanda petunjuk pada menu inspect yang akan muncul ketika klik kanan pada website
+- terdapat menu style dan computed yang dapat digunakan untuk melihat style apa saja yang digunakan
+- terutama bagian computed yang dapat memunculkan box model yang dapat melihat padding yang ada (border, margin, padding)
