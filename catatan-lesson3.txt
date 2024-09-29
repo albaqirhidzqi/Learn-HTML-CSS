@@ -1,0 +1,8 @@
+catatan:
+- membuat hover, active action, dan shadow pada tag button dan p
+- berikut adalah fungsi yang digunakan:
+    - xxxx:hover
+    - transition 
+    - box-shadow
+    - opacity
+    - xxxx:active

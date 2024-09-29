@@ -1,0 +1,12 @@
+Catatan:
+- Membuat button serta tag p (paragraph) dan mengatur bentuk fisik dari button tag
+    - font-weigth
+    - font-size
+    - color (untuk text)
+    - background-color 
+    - border
+    - border-color
+    - border-width
+    - height
+    = width
+    - border-radius

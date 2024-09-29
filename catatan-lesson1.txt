@@ -1,0 +1,5 @@
+Catatan
+- membuat tag button, p (paragraph), a (achor)
+- tag button untuk menampilkan tombol yang nanti dapat di klik
+- p untuk menampilkan sebuah paragraph 
+- a untuk text yang dapat disisipkan link suatu website (href) dan dapat ditentukan laman yang akan dibuka (target)
