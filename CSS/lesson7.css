@@ -1,0 +1,25 @@
+.image {
+    width: 200px;
+}
+
+.search-bar {
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.image-2 {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.image-3 {
+    width: 200px;
+    height: 200px;
+    object-position: center;
+}
+
+.image-4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
